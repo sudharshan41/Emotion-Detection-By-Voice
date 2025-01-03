@@ -28,3 +28,22 @@ Filename example: 03-01-06-01-02-01-12.wav
 7. 12th Actor (12) 
 Female, as the actor ID number is even. 
 
+
+# Plots for MFCC , Chroma , Mel-Scaled spectrogram , spectral contrast , Tonnetz 
+
+![assets/image-2.png](assets/image-2.png)
+
+#  KNN Classification Report:-
+![alt text](assets/image-4.png)
+
+# MLP classifiers:-
+
+![assets/image.png](assets/image.png)
+
+# K-Fold Classification Report:-
+
+![assets/image-1.png](assets/image-1.png)
+
+# SVM Classification Report:-
+
+![assets/image6.png](assets/image6.png)
